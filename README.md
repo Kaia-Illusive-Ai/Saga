@@ -1,7 +1,7 @@
-# 🚀 Kaia – Illusive AI Saga  
+# Kaia – Illusive AI Saga  
 ### *The First AI-Driven Interactive Storytelling Revolution*  
 
-## 🔥 What is Kaia Saga?  
+##  What is the Kaia Saga?  
 **The Kaia Saga** is a **next-generation AI-powered storytelling universe** where the narrative is shaped in real-time. Built on the fusion of **AI, dystopian fiction, and interactive digital experiences**, Kaia challenges everything we know about storytelling.  
 
 📜 **Read Our Vision & Roadmap:** [Kaia Illusive AI Vision](https://www.paperturn-view.com/kaia-ai/kaia-illusive-ai-vision?pid=ODg8858526&v=1.1)  
